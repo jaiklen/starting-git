@@ -1,0 +1,2 @@
+# starting-git
+getting started
